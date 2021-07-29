@@ -1,6 +1,6 @@
 # Product Management
 
-Product_ management for a fictional e-commerce sit. In this project My goals  is Search, Delete, Update, Category products and create REST APIs for methods. I have done most of the code.
+Product_ management for a fictional e-commerce sit. In this project My goals  is Search, Delete, Update, Category products and create REST APIs for that methods. I have done most of the code.
 ## Requirements 
   - Language : `Golang`
   - Database : `mongodb atlas`
