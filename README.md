@@ -2,7 +2,7 @@
 
 Product_ management for a fictional e-commerce sit. In this project My goals  is Search, Delete, Update, Category products and create REST APIs for methods. I have done most of the code.
 ## Requirements 
-  - Language : `Golan`
+  - Language : `Golang`
   - Database : `mongodb atlas`
 ## Instruction :-
  **PowerShell Cmd**
