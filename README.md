@@ -5,11 +5,11 @@ Product_ management for a fictional e-commerce sit. In this project My goals  is
   - Language : `Golang`
   - Database : `mongodb atlas`
 ## Instruction :-
- **PowerShell Cmd**
+ **PowerShell Command** :
   - Build :- `go build -o api.exe`
   - Run :- `./api.exe `  
 
- **APIs Response**
+ **APIs Response** :
 
    ![Output](https://github.com/mugdo/CG/blob/master/new1012.PNG)
 
